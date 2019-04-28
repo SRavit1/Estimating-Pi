@@ -1,5 +1,7 @@
 # Estimating-Pi
 
+![alt text](https://media.geeksforgeeks.org/wp-content/uploads/MonteCarlo.png "Monte Carlo Estimation of Pi")
+
 This simple, yet intriguing program uses a Monte Carlo method to estimate the value of pi.
 
 How does this work? The method is simple. Imagine a circle inscribed in a square.
